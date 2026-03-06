@@ -293,6 +293,8 @@ It's a great way to learn.
 * [**Rust**: _Writing an OS in Rust_](https://os.phil-opp.com/)
 * [**Rust**: _Add RISC-V Rust Operating System Tutorial_](https://osblog.stephenmarz.com/)
 * [**(any)**: _Linux from scratch_](https://linuxfromscratch.org/lfs)
+* [**(Automated)**: _Linux from scratch_](https://github.com/lucky-sideburn/generic-distro-toolkit)
+
 
 #### Build your own `Physics Engine`
 
